@@ -1,6 +1,6 @@
 # ReactList
 
-http://youtu.be/6JDylPmJyC4
+http://youtu.be/BoAIlL6brN0
 
 The above link is the demo and explantion of my React todolist app with rails as a api.
 
