@@ -1,0 +1,22 @@
+// Place all the styles related to the ClientApp controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.todoForm {
+  width: 700px;
+}
+.todoBox {
+  width: 500px;
+  height: 30px;
+}
+
+.todoList{
+  padding: 10px;
+}
+
+.todoBox {
+  text-align: center;
+}
+
+.todo-cmplt {
+  color: grey;
+}
